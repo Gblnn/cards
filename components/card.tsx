@@ -10,7 +10,7 @@ export default function Card({card}:{card:any}){
 
 const styles = StyleSheet.create({
     card: {
-        flex:0.75,
+        flex:0.8,
         marginTop:100,
         width: "100%",
         backgroundColor:"white",
